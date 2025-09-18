@@ -1,0 +1,31 @@
+
+.landing-container {
+  height: 100vh;
+  width: 100%;
+  background: url("https://plus.unsplash.com/premium_photo-1664301427534-28b6a53a9c4f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Z3ltJTIwYmFja2dyb3VuZHxlbnwwfHwwfHx8MA%3D%3D") no-repeat center center fixed;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.landing-overlay {
+  background: rgba(0, 0, 0, 0.6);
+  padding: 40px;
+  border-radius: 12px;
+  text-align: center;
+  color: #fff;
+}
+
+.landing-overlay h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+  color: #ff9800;
+}
+
+.landing-overlay p {
+  font-size: 1.2rem;
+  color: #ddd;
+}
+

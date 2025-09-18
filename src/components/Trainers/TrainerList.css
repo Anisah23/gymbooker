@@ -1,0 +1,40 @@
+.trainer-list {
+  padding: 20px;
+  text-align: center;
+}
+
+.trainer-list h1 {
+  color: #ff6600;
+  margin-bottom: 10px;
+}
+
+.catchphrase {
+  font-style: italic;
+  margin-bottom: 20px;
+  color: #444;
+}
+
+.add-btn {
+  display: inline-block;
+  margin-bottom: 20px;
+  background: #ff6600;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 8px;
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+}
+
+li a {
+  color: #333;
+  text-decoration: none;
+  font-weight: bold;
+}

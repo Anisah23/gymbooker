@@ -1,0 +1,24 @@
+.session-list {
+  padding: 20px;
+  text-align: center;
+}
+
+.session-list h1 {
+  color: #28a745;
+}
+
+.catchphrase {
+  font-style: italic;
+  margin-bottom: 20px;
+  color: #444;
+}
+
+.add-btn {
+  display: inline-block;
+  margin-bottom: 20px;
+  background: #28a745;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 8px;
+  text-decoration: none;
+}

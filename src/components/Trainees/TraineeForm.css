@@ -1,0 +1,39 @@
+.trainee-form {
+  max-width: 500px;
+  margin: auto;
+  padding: 20px;
+  background: #e6f2ff;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.trainee-form h1 {
+  color: #0077cc;
+}
+
+.catchphrase {
+  font-style: italic;
+  margin-bottom: 20px;
+  color: #444;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+input {
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+}
+
+button {
+  background: #0077cc;
+  color: white;
+  padding: 12px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
